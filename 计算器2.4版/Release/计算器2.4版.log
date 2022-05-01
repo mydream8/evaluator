@@ -1,0 +1,9 @@
+﻿  sorce.c
+E:\自做C程序\Visual studio制作\计算器2.4版\head.h(5,8): warning C4477: “scanf”: 格式字符串“%lf”需要类型“double *”的参数，但可变参数 1 拥有了类型“const d *”
+E:\自做C程序\Visual studio制作\计算器2.4版\head.h(5,8): warning C4477: “scanf”: 格式字符串“%lf”需要类型“double *”的参数，但可变参数 3 拥有了类型“const d *”
+E:\自做C程序\Visual studio制作\计算器2.4版\head.h(5,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+  All 13 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  计算器2.4版.vcxproj -> E:\自做C程序\Visual studio制作\计算器2.4版\Release\计算器2.4版.exe
